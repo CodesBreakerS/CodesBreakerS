@@ -34,7 +34,7 @@
 - 🌱 I am currently in the race **Software Design and Development**
 
 - 📫 How to reach me **monzurulislamcse.0208@gmail.com**
-<br>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100%>
 <!-- CONTACTO -->
 <h3 align="left">Connect with me:</h3>
@@ -48,7 +48,7 @@
 
 <a href="https://wa.me/message/PGE3WGX2FNJYP1 " target="blank"><img align="center" src="https://github.com/m-d-Irfan/m-d-Irfan/blob/main/icon/whatsapp%20logo_icon.svg" alt="+8801611836864" height="30" width="40" /></a>
 </p>
-<br>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100%>
 
 <p align="center">
