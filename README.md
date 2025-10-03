@@ -46,13 +46,24 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100%>
 <!-- CONTACTO -->
 <div align="center">
-<h1>Connect with me <img src="https://github.com/m-d-Irfan/m-d-Irfan/blob/main/icon/handshake.gif" width=100px height=120px /> </h1>
+  <h1 style="border-bottom:none;">Connect with me 
+    <img src="https://github.com/m-d-Irfan/m-d-Irfan/blob/main/icon/handshake.gif" width="80px" height="80px"/>
+  </h1>
 
-<a href="https://www.linkedin.com/in/monzurul-islam-irfan/" target="blank"><img align="center" src="https://github.com/m-d-Irfan/m-d-Irfan/blob/main/icon/linkedin%20logo_icon.svg" alt="monzurul-islam-irfan" height="30" width="40"></a> 
-<a href="https://discord.com/979796358800236594" target="blank"><img align="center" src="https://github.com/m-d-Irfan/m-d-Irfan/blob/main/icon/discord-icon.svg" alt="979796358800236594" height="30" width="40"></a>
-<a href="https://t.me/m_d_Irfann" target="blank"><img align="center" src="https://github.com/m-d-Irfan/m-d-Irfan/blob/main/icon/Telegram.svg" alt="m_d_Irfann" height="30" width="40"></a>
-<a href="https://wa.me/message/PGE3WGX2FNJYP1 " target="blank"><img align="center" src="https://github.com/m-d-Irfan/m-d-Irfan/blob/main/icon/whatsapp%20logo_icon.svg" alt="+8801611836864" height="30" width="40"></a>
+  <a href="https://www.linkedin.com/in/monzurul-islam-irfan/" target="blank">
+    <img align="center" src="https://github.com/m-d-Irfan/m-d-Irfan/blob/main/icon/linkedin%20logo_icon.svg" alt="monzurul-islam-irfan" height="30" width="40"/>
+  </a> 
+  <a href="https://discord.com/979796358800236594" target="blank">
+    <img align="center" src="https://github.com/m-d-Irfan/m-d-Irfan/blob/main/icon/discord-icon.svg" alt="979796358800236594" height="30" width="40"/>
+  </a>
+  <a href="https://t.me/m_d_Irfann" target="blank">
+    <img align="center" src="https://github.com/m-d-Irfan/m-d-Irfan/blob/main/icon/Telegram.svg" alt="m_d_Irfann" height="30" width="40"/>
+  </a>
+  <a href="https://wa.me/message/PGE3WGX2FNJYP1" target="blank">
+    <img align="center" src="https://github.com/m-d-Irfan/m-d-Irfan/blob/main/icon/whatsapp%20logo_icon.svg" alt="+8801611836864" height="30" width="40"/>
+  </a>
 </div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100%>
 
 
