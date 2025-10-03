@@ -2,24 +2,13 @@
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif" height="150%">
 
-<!-- VISTAS DEL PERFIL 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andermendoza&label=Profile%20views&color=0e75b6&style=flat" alt="andermendoza" /> </p> 
--->
-<!-- TROFEOS GITHUB -->
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andermendoza&theme=dracula&column=7" alt="andermendoza" /></a> </p> -->
-
-
 <h1 align="center">I'm Monzurul Islam<img src="https://github.com/m-d-Irfan/m-d-Irfan/blob/main/icon/wave.gif" width="60px"/></h1>
 
-<!-- - 🔭 I’m currently working on  -->
 <h1> 🌱 I’m currently learning Django</h1>
 
 <!--
 ### 📕 My Latest Projects:
-<!-- BLOG-POST-LIST:START -->
-<!--- [Containerize your web application & deploy it on Kubernetes](https://apoorvtyagi.tech/containerize-your-web-application-and-deploy-it-on-kubernetes)
-- [Different ways to authenticate your APIs](https://apoorvtyagi.tech/different-ways-to-authenticate-your-apis)  -->
-<!-- BLOG-POST-LIST:END -->
+<!--- [Display the project name with link ](https://the_Project_link)
 ---
 
 ## 📊 Github Stats
