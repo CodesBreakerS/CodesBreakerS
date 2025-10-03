@@ -28,7 +28,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m-d-Irfan/github-stats/master/generated/overview.svg#gh-dark-mode-only">
-  <img src="https://raw.githubusercontent.com/m-d-Irfan/github-stats/master/generated/overview.svg">
+  <img src="https://raw.githubusercontent.com/0xabdulkhaliq/github-stats/master/generated/overview.svg">
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xabdulkhaliq/github-stats/master/generated/languages.svg#gh-dark-mode-only">
