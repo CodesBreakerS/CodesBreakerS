@@ -25,7 +25,7 @@
 ## 📊 Github Stats
 
 <div align="center">
-
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m-d-Irfan/github-stats/master/generated/overview.svg#gh-dark-mode-only">
   <img src="https://raw.githubusercontent.com/0xabdulkhaliq/github-stats/master/generated/overview.svg">
@@ -42,7 +42,9 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=0xabdulkhaliq&border_radius=7&card_width=235&card_height=214&background=0D1117&sideNums=4c8edf&sideLabels=ddd&border=777&dates=999&hide_total_contributions=true&hide_current_streak=true">
   <img src="https://streak-stats.demolab.com/?user=0xabdulkhaliq&border_radius=7&card_width=235&card_height=190&sideNums=3483ed&sideLabels=555&border=e1e4e8&dates=777&hide_total_contributions=true&hide_current_streak=true">
 </picture>
-
+-->
+  ![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=m-d-Irfan&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-d-Irfan&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/m-d-Irfan/github-readme-stats)
 </div>
 <br>
 
