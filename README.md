@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **monzurulislamcse.0208@gmail.com**
 
----
-
 ## 📕 My Latest Projects:
 
 - 🔄 Developer working in Backend
