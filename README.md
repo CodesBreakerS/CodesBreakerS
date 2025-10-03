@@ -46,12 +46,13 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100%>
 
 <!-- CONTACTO -->
-<p align="center">
-  <strong>Connect with me</strong>
-  <img src="https://github.com/m-d-Irfan/m-d-Irfan/blob/main/icon/handshake.gif" alt="handshake" width="64" />
-</p>
+<div align="center">
 
-<p align="center">
+  <b><span style="font-size:32px;">𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝘄𝗶𝘁𝗵 𝗺𝗲</span></b>
+
+  <br>
+  <img src="https://github.com/m-d-Irfan/m-d-Irfan/blob/main/icon/handshake.gif" alt="handshake" width="64" />
+
   <a href="https://www.linkedin.com/in/monzurul-islam-irfan/" target="_blank">
     <img src="https://github.com/m-d-Irfan/m-d-Irfan/blob/main/icon/linkedin%20logo_icon.svg" alt="LinkedIn" width="40" height="30" />
   </a>
@@ -64,7 +65,7 @@
   <a href="https://wa.me/message/PGE3WGX2FNJYP1" target="_blank">
     <img src="https://github.com/m-d-Irfan/m-d-Irfan/blob/main/icon/whatsapp%20logo_icon.svg" alt="WhatsApp" width="40" height="30" />
   </a>
-</p>
+</div>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100%>
