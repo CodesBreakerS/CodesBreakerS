@@ -12,7 +12,7 @@
 <h1 align="center">I'm Monzurul Islam<img src="https://github.com/m-d-Irfan/m-d-Irfan/blob/main/icon/wave.gif" width="60px"/></h1>
 
 <!-- - 🔭 I’m currently working on  -->
-<h1>- 🌱 I’m currently learning Django</h1>
+<h1> 🌱 I’m currently learning Django</h1>
 
 -->
 <!--
