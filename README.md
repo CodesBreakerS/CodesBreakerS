@@ -44,28 +44,27 @@
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100%>
+
 <!-- CONTACTO -->
-<div align="center">
+<p align="center">
+  <strong>Connect with me</strong>
+  <img src="https://github.com/m-d-Irfan/m-d-Irfan/blob/main/icon/handshake.gif" alt="handshake" width="64" />
+</p>
 
-  <p style="font-size:36px; font-weight:bold;">
-    Connect with me 
-    <img src="https://github.com/m-d-Irfan/m-d-Irfan/blob/main/icon/handshake.gif" width="80px" height="80px"/>
-  </p>
-
-  <a href="https://www.linkedin.com/in/monzurul-islam-irfan/" target="blank">
-    <img align="center" src="https://github.com/m-d-Irfan/m-d-Irfan/blob/main/icon/linkedin%20logo_icon.svg" alt="monzurul-islam-irfan" height="30" width="40"/>
-  </a> 
-  <a href="https://discord.com/979796358800236594" target="blank">
-    <img align="center" src="https://github.com/m-d-Irfan/m-d-Irfan/blob/main/icon/discord-icon.svg" alt="979796358800236594" height="30" width="40"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/monzurul-islam-irfan/" target="_blank">
+    <img src="https://github.com/m-d-Irfan/m-d-Irfan/blob/main/icon/linkedin%20logo_icon.svg" alt="LinkedIn" width="40" height="30" />
   </a>
-  <a href="https://t.me/m_d_Irfann" target="blank">
-    <img align="center" src="https://github.com/m-d-Irfan/m-d-Irfan/blob/main/icon/Telegram.svg" alt="m_d_Irfann" height="30" width="40"/>
+  <a href="https://discord.com/979796358800236594" target="_blank">
+    <img src="https://github.com/m-d-Irfan/m-d-Irfan/blob/main/icon/discord-icon.svg" alt="Discord" width="40" height="30" />
   </a>
-  <a href="https://wa.me/message/PGE3WGX2FNJYP1" target="blank">
-    <img align="center" src="https://github.com/m-d-Irfan/m-d-Irfan/blob/main/icon/whatsapp%20logo_icon.svg" alt="+8801611836864" height="30" width="40"/>
+  <a href="https://t.me/m_d_Irfann" target="_blank">
+    <img src="https://github.com/m-d-Irfan/m-d-Irfan/blob/main/icon/Telegram.svg" alt="Telegram" width="40" height="30" />
   </a>
-
-</div>
+  <a href="https://wa.me/message/PGE3WGX2FNJYP1" target="_blank">
+    <img src="https://github.com/m-d-Irfan/m-d-Irfan/blob/main/icon/whatsapp%20logo_icon.svg" alt="WhatsApp" width="40" height="30" />
+  </a>
+</p>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100%>
