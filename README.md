@@ -12,8 +12,8 @@
 - 👨‍💻 Open for **Remote Job**
 
 - 📫 How to reach me **monzurulislamcse.0208@gmail.com**
-|
-!### 📕 My Latest Projects:
+!
+### 📕 My Latest Projects:
 
 - 🔄 Developer working in Backend
 <!--
