@@ -47,7 +47,7 @@
 <!-- CONTACTO -->
 <div align="center">
 
-  <p style="font-size:28px; font-weight:bold;">
+  <p style="font-size:36px; font-weight:bold;">
     Connect with me 
     <img src="https://github.com/m-d-Irfan/m-d-Irfan/blob/main/icon/handshake.gif" width="80px" height="80px"/>
   </p>
