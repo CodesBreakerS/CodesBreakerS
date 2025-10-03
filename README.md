@@ -48,8 +48,9 @@
 <!-- CONTACTO -->
 <div align="center">
 
-  <b><span style="font-size:32px;">𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝘄𝗶𝘁𝗵 𝗺𝗲</span></b>
-  <img src="https://github.com/m-d-Irfan/m-d-Irfan/blob/main/icon/handshake.gif" alt="handshake" width="64" />
+  <h1>𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝘄𝗶𝘁𝗵 𝗺𝗲</h1>
+  <br>
+  <img src="https://github.com/m-d-Irfan/m-d-Irfan/blob/main/icon/handshake.gif" alt="handshake" width="100" height="120" />
   <br>
 
   <a href="https://www.linkedin.com/in/monzurul-islam-irfan/" target="_blank">
