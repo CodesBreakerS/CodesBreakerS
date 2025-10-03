@@ -3,7 +3,7 @@
 
 <h1 align="center"><img src="https://github.com/m-d-Irfan/m-d-Irfan/blob/main/icon/wave.gif" width="60px"/>I'm Monzurul Islam</h1>
 
-<h1> 🌱 I’m currently learning Django</h1>
+- 🌱 I’m currently learning Django
 <!-- BREVE DESCRIPCION -->
 - 📚 I am currently studying at [Port City International University](https://www.portcity.edu.bd)
 
