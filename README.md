@@ -48,25 +48,19 @@
 <!-- CONTACTO -->
 <div align="center">
 
-  <b><font size="2">Connect with me</font></b>
-  <br>
-  <img src="https://github.com/m-d-Irfan/m-d-Irfan/blob/main/icon/handshake.gif" alt="handshake" width="100" height="120" />
-  <br>
-<p align="center">
-  <a href="https://www.linkedin.com/in/monzurul-islam-irfan/" target="_blank">
-    <img src="https://github.com/m-d-Irfan/m-d-Irfan/blob/main/icon/linkedin%20logo_icon.svg" alt="LinkedIn" width="40" height="30" >
-  </a>
-  <a href="https://discord.com/979796358800236594" target="_blank">
-    <img src="https://github.com/m-d-Irfan/m-d-Irfan/blob/main/icon/discord-icon.svg" alt="Discord" width="40" height="30" >
-  </a>
-  <a href="https://t.me/m_d_Irfann" target="_blank">
-    <img src="https://github.com/m-d-Irfan/m-d-Irfan/blob/main/icon/Telegram.svg" alt="Telegram" width="40" height="30" />
-  </a>
-  <a href="https://wa.me/message/PGE3WGX2FNJYP1" target="_blank">
+<b><font size="2">Connect with me</font></b>
+<br>
+<img src="https://github.com/m-d-Irfan/m-d-Irfan/blob/main/icon/handshake.gif" alt="handshake" width="100" height="120" />
+<br>
+<a href="https://www.linkedin.com/in/monzurul-islam-irfan/" target="_blank">
+    <img src="https://github.com/m-d-Irfan/m-d-Irfan/blob/main/icon/linkedin%20logo_icon.svg" alt="LinkedIn" width="40" height="30" ></a>
+<a href="https://discord.com/979796358800236594" target="_blank">
+    <img src="https://github.com/m-d-Irfan/m-d-Irfan/blob/main/icon/discord-icon.svg" alt="Discord" width="40" height="30" ></a>
+<a href="https://t.me/m_d_Irfann" target="_blank">
+    <img src="https://github.com/m-d-Irfan/m-d-Irfan/blob/main/icon/Telegram.svg" alt="Telegram" width="40" height="30" /></a>
+<a href="https://wa.me/message/PGE3WGX2FNJYP1" target="_blank">
     <img src="https://github.com/m-d-Irfan/m-d-Irfan/blob/main/icon/whatsapp%20logo_icon.svg" alt="WhatsApp" width="40" height="30" />
-  </a>
-</p>
-</div>
+</a></div>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100%>
