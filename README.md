@@ -5,13 +5,17 @@
 
 - 🌱 I’m currently learning Django
 <!-- BREVE DESCRIPCION -->
-- 📚 I am currently studying at [Port City International University](https://www.portcity.edu.bd)
+- 📚 I am currently a 4th year CSE student at [Port City International University](https://www.portcity.edu.bd)
 
-- 🌱 I am currently in the race for **Software Engineer and Development**
+- 🐱‍💻 I am currently in the race for **Software Engineer and Development**
+
+- 👨‍💻 Open for **Remote Job**
 
 - 📫 How to reach me **monzurulislamcse.0208@gmail.com**
-<!--
+
 ### 📕 My Latest Projects:
+<!--
+
  [Display the project name with link ](https://the_Project_link)
 ---
 -->
