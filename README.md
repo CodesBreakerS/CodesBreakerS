@@ -14,7 +14,7 @@
 <!-- - 🔭 I’m currently working on  -->
 <h1> 🌱 I’m currently learning Django</h1>
 
--->
+---
 <!--
 ### 📕 My Latest Projects:
 <!-- BLOG-POST-LIST:START -->
