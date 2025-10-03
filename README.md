@@ -11,27 +11,22 @@
 
 <h1 align="center">I'm Monzurul Islam<img src="https://github.com/m-d-Irfan/m-d-Irfan/blob/main/icon/wave.gif" width="60px"/></h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- - 🔭 I’m currently working on  -->
+<h1>- 🌱 I’m currently learning Django</h1>
 
+-->
+<!--
 ### 📕 My Latest Projects:
 <!-- BLOG-POST-LIST:START -->
-- [Containerize your web application & deploy it on Kubernetes](https://apoorvtyagi.tech/containerize-your-web-application-and-deploy-it-on-kubernetes)
-- [Different ways to authenticate your APIs](https://apoorvtyagi.tech/different-ways-to-authenticate-your-apis)
+<!--- [Containerize your web application & deploy it on Kubernetes](https://apoorvtyagi.tech/containerize-your-web-application-and-deploy-it-on-kubernetes)
+- [Different ways to authenticate your APIs](https://apoorvtyagi.tech/different-ways-to-authenticate-your-apis)  -->
 <!-- BLOG-POST-LIST:END -->
 ---
 
 <!-- BREVE DESCRIPCION -->
 - 📚 I am currently studying at [Port City International University](https://www.portcity.edu.bd)
 
-- 🌱 I am currently in the race **Software Design and Development**
+- 🌱 I am currently in the race **Software Engineer and Development**
 
 - 📫 How to reach me **monzurulislamcse.0208@gmail.com**
 
