@@ -3,7 +3,7 @@
 
 <h1 align="center"><img src="https://github.com/m-d-Irfan/m-d-Irfan/blob/main/icon/wave.gif" width="60px"/>I'm Monzurul Islam</h1>
 
-- 🌱 I’m currently learning Django
+- 🐍 I’m currently learning Django
 <!-- BREVE DESCRIPCION -->
 - 📚 I am currently a 4th year CSE student at [Port City International University](https://www.portcity.edu.bd)
 
@@ -14,6 +14,8 @@
 - 📫 How to reach me **monzurulislamcse.0208@gmail.com**
 
 ### 📕 My Latest Projects:
+
+🔄 Developer working in Backend
 <!--
 
  [Display the project name with link ](https://the_Project_link)
