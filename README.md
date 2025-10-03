@@ -52,7 +52,7 @@
   <br>
   <img src="https://github.com/m-d-Irfan/m-d-Irfan/blob/main/icon/handshake.gif" alt="handshake" width="100" height="120" />
   <br>
-
+<p align="center">
   <a href="https://www.linkedin.com/in/monzurul-islam-irfan/" target="_blank">
     <img src="https://github.com/m-d-Irfan/m-d-Irfan/blob/main/icon/linkedin%20logo_icon.svg" alt="LinkedIn" width="40" height="30" >
   </a>
@@ -65,6 +65,7 @@
   <a href="https://wa.me/message/PGE3WGX2FNJYP1" target="_blank">
     <img src="https://github.com/m-d-Irfan/m-d-Irfan/blob/main/icon/whatsapp%20logo_icon.svg" alt="WhatsApp" width="40" height="30" />
   </a>
+</p>
 </div>
 
 
