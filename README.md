@@ -45,7 +45,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100%>
 <!-- CONTACTO -->
-<h3 align="center">Connect with me  </h3>
+**<h1 align="center">Connect with me  </h1>**
 <h3 align="center"><img src="https://github.com/m-d-Irfan/m-d-Irfan/blob/main/icon/handshake.gif" width=100px height=120px> </h3>
 <p align="center"> 
 <a href="https://www.linkedin.com/in/monzurul-islam-irfan/" target="blank"><img align="center" src="https://github.com/m-d-Irfan/m-d-Irfan/blob/main/icon/linkedin%20logo_icon.svg" alt="monzurul-islam-irfan" height="30" width="40"></a> 
