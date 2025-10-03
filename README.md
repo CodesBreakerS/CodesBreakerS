@@ -46,7 +46,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100%>
 
 <!-- CONTACTO -->
-<p align="center">
+<div align="center">
 
   <b><font size="2">Connect with me</font></b>
   <br>
@@ -65,7 +65,7 @@
   <a href="https://wa.me/message/PGE3WGX2FNJYP1" target="_blank">
     <img src="https://github.com/m-d-Irfan/m-d-Irfan/blob/main/icon/whatsapp%20logo_icon.svg" alt="WhatsApp" width="40" height="30" />
   </a>
-</p>
+</div>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100%>
