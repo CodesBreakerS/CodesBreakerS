@@ -48,7 +48,7 @@
 <!-- CONTACTO -->
 <div align="center">
 
-  <b><font size="12">Connect with me</font></b>
+  <b><font size="7">Connect with me</font></b>
   <br>
   <img src="https://github.com/m-d-Irfan/m-d-Irfan/blob/main/icon/handshake.gif" alt="handshake" width="100" height="120" />
   <br>
