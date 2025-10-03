@@ -1,39 +1,21 @@
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" height="50%">
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif" height="150%">
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 
-<h1 align="center">I'm Monzurul Islam<img src="https://github.com/m-d-Irfan/m-d-Irfan/blob/main/icon/wave.gif" width="60px"/></h1>
+<h1 align="center"><img src="https://github.com/m-d-Irfan/m-d-Irfan/blob/main/icon/wave.gif" width="60px"/>I'm Monzurul Islam</h1>
 
 <h1> 🌱 I’m currently learning Django</h1>
+<!-- BREVE DESCRIPCION -->
+- 📚 I am currently studying at [Port City International University](https://www.portcity.edu.bd)
 
+- 🌱 I am currently in the race for **Software Engineer and Development**
+
+- 📫 How to reach me **monzurulislamcse.0208@gmail.com**
 <!--
 ### 📕 My Latest Projects:
-<!--- [Display the project name with link ](https://the_Project_link)
+ [Display the project name with link ](https://the_Project_link)
 ---
-
-## 📊 Github Stats
-
-<div align="center">
-<!--
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m-d-Irfan/github-stats/master/generated/overview.svg#gh-dark-mode-only">
-  <img src="https://raw.githubusercontent.com/0xabdulkhaliq/github-stats/master/generated/overview.svg">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xabdulkhaliq/github-stats/master/generated/languages.svg#gh-dark-mode-only">
-  <img src="https://raw.githubusercontent.com/0xabdulkhaliq/github-stats/master/generated/languages.svg">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=0xabdulkhaliq&show_icons=true&number_format=long&hide_title=true&text_bold=false&show=reviews,prs_merged,prs_merged_percentage,discussions_answered&border_color=ddd&border_radius=7&hide=stars,commits">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xabdulkhaliq&show_icons=true&number_format=long&hide_title=true&text_bold=false&hide=stars,commits&show=reviews,discussions_answered,prs_merged,prs_merged_percentage&border_color=666&border_radius=7&bg_color=0d1117&icon_color=58a6ff&ring_color=58a6fc&text_color=ccc">
-</picture> &nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=0xabdulkhaliq&border_radius=7&card_width=235&card_height=214&background=0D1117&sideNums=4c8edf&sideLabels=ddd&border=777&dates=999&hide_total_contributions=true&hide_current_streak=true">
-  <img src="https://streak-stats.demolab.com/?user=0xabdulkhaliq&border_radius=7&card_width=235&card_height=190&sideNums=3483ed&sideLabels=555&border=e1e4e8&dates=777&hide_total_contributions=true&hide_current_streak=true">
-</picture>
 -->
-
-  
+## 📊 Github Stats
 ![Monzurul's github stats](https://github-readme-stats.vercel.app/api?username=m-d-Irfan&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=stars,prs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-d-Irfan&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/m-d-Irfan/github-readme-stats)
 </div>
@@ -56,13 +38,6 @@
 | | |
 
 <br>
-
-<!-- BREVE DESCRIPCION -->
-- 📚 I am currently studying at [Port City International University](https://www.portcity.edu.bd)
-
-- 🌱 I am currently in the race for **Software Engineer and Development**
-
-- 📫 How to reach me **monzurulislamcse.0208@gmail.com**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width=100%>
 <!-- CONTACTO -->
